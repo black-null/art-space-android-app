@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="evening_sky_clouds">Evening Sky clouds</string>
+    <string name="artwork_artist_year">Artwork Artist (Year)</string>
+    <string name="bright_pop_landscape_design">Bright Pop landscape design</string>
+    <string name="street_tokyo_japan">Street Tokyo Japan</string>
+</resources>
